@@ -1,0 +1,12 @@
+- shadbot recommend [link]
+- shadbot last [number]
+- shadbot find [query]
+- shadbot shad
+- shadbot haiku
+- shadbot addemoji [emoji name] (also attach image file)
+- shadbot emojis
+- shadbot rate [emoji] [integer between 0-10]
+- shadbot rating [top/bottom]
+- o shadbot, recommend me a song
+- pk [difficulty 1-10] (category) (use "next" to progress)
+- clear pk
